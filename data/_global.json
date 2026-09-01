@@ -12,6 +12,11 @@
       "username": "gwrandi",
       "languageCode": "id",
       "isBotOwner": true
+    },
+    "6648071746": {
+      "userId": 6648071746,
+      "firstName": "King Gufron 🐋",
+      "isBotOwner": false
     }
   },
   "chatIds": [
