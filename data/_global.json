@@ -18,6 +18,12 @@
       "firstName": "King Gufron 🐋",
       "languageCode": "id",
       "isBotOwner": false
+    },
+    "8653883334": {
+      "userId": 8653883334,
+      "firstName": "project ran",
+      "username": "installer_pterodactylbot",
+      "isBotOwner": false
     }
   },
   "chatIds": [
