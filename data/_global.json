@@ -1,0 +1,38 @@
+{
+  "users": {
+    "1087968824": {
+      "userId": 1087968824,
+      "firstName": "Group",
+      "username": "GroupAnonymousBot",
+      "isBotOwner": false
+    },
+    "7973832054": {
+      "userId": 7973832054,
+      "firstName": "𝒓𝒂𝒏𝒏𝒇𝒐𝒓𝒚𝒐𝒖",
+      "username": "gwrandi",
+      "languageCode": "id",
+      "isBotOwner": true
+    },
+    "6648071746": {
+      "userId": 6648071746,
+      "firstName": "King Gufron 🐋",
+      "languageCode": "id",
+      "isBotOwner": false
+    },
+    "8653883334": {
+      "userId": 8653883334,
+      "firstName": "project ran",
+      "username": "installer_pterodactylbot",
+      "isBotOwner": false
+    }
+  },
+  "chatIds": [
+    "7973832054",
+    "-5463794839",
+    "-1004487542628",
+    "-1003914830615"
+  ],
+  "federations": {},
+  "federationMembers": [],
+  "federationBans": []
+}
