@@ -26,7 +26,9 @@
     "warnResetOnAction": true,
     "logChatId": null,
     "rulesText": null,
-    "lockedContentTypes": [],
+    "lockedContentTypes": [
+      "video"
+    ],
     "verificationEnabled": false,
     "verificationExplicitOverride": null,
     "languageConfirmed": true
