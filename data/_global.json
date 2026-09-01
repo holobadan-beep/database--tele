@@ -1,6 +1,16 @@
 {
-  "users": {},
-  "chatIds": [],
+  "users": {
+    "7973832054": {
+      "userId": 7973832054,
+      "firstName": "𝒓𝒂𝒏𝒏𝒇𝒐𝒓𝒚𝒐𝒖",
+      "username": "gwrandi",
+      "languageCode": "id",
+      "isBotOwner": true
+    }
+  },
+  "chatIds": [
+    "7973832054"
+  ],
   "federations": {},
   "federationMembers": [],
   "federationBans": []
