@@ -36,8 +36,8 @@
   "members": {
     "7973832054": {
       "role": "member",
-      "joinedAt": "2026-09-01T03:17:09.192Z",
-      "leftAt": "2026-09-01T03:18:04.937Z"
+      "joinedAt": "2026-09-01T03:18:26.470Z",
+      "leftAt": null
     }
   },
   "warnings": [],
@@ -45,12 +45,57 @@
   "notes": [],
   "customCommands": [],
   "disabledCommands": [],
-  "moderationActions": [],
+  "moderationActions": [
+    {
+      "id": "655ba403-160d-4fcc-91cc-5beafbf8e310",
+      "targetUserId": 7973832054,
+      "moderatorId": 6648071746,
+      "actionType": "unban",
+      "reason": null,
+      "durationSeconds": null,
+      "createdAt": "2026-09-01T03:18:20.688Z"
+    },
+    {
+      "id": "c147f36d-a4d9-40b3-8e5d-849ef460d8c6",
+      "targetUserId": 7973832054,
+      "moderatorId": 8653883334,
+      "actionType": "mute",
+      "reason": "Pending captcha verification",
+      "durationSeconds": null,
+      "createdAt": "2026-09-01T03:18:27.235Z"
+    }
+  ],
   "scheduledActions": [],
-  "captchaSessions": {},
+  "captchaSessions": {
+    "7973832054": {
+      "challengeAnswer": "15",
+      "messageId": 62,
+      "status": "pending",
+      "expiresAt": "2026-09-01T03:19:27.238Z"
+    }
+  },
   "requiredChannels": [],
   "verificationSessions": {},
-  "logs": [],
+  "logs": [
+    {
+      "id": "79cec9b8-6722-4f6c-9949-9d08215121c7",
+      "eventType": "unban",
+      "targetUserId": 7973832054,
+      "moderatorId": 6648071746,
+      "reason": null,
+      "details": {},
+      "createdAt": "2026-09-01T03:18:20.698Z"
+    },
+    {
+      "id": "5c78a2f5-1c75-4968-aaae-15f8bd6be8e8",
+      "eventType": "mute",
+      "targetUserId": 7973832054,
+      "moderatorId": 8653883334,
+      "reason": "Pending captcha verification",
+      "details": {},
+      "createdAt": "2026-09-01T03:18:27.236Z"
+    }
+  ],
   "floodCounters": {},
   "rateLimits": {},
   "adminCache": {
