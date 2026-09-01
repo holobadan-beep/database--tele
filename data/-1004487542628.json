@@ -15,7 +15,7 @@
     "goodbyeMessage": null,
     "antiSpamEnabled": false,
     "antiSpamAction": "delete",
-    "antiFloodEnabled": false,
+    "antiFloodEnabled": true,
     "floodMessageLimit": 5,
     "floodWindowSeconds": 10,
     "floodAction": "mute",
