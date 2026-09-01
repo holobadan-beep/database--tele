@@ -36,8 +36,8 @@
   "members": {
     "7973832054": {
       "role": "member",
-      "joinedAt": "2026-09-01T03:18:26.470Z",
-      "leftAt": "2026-09-01T03:19:31.888Z"
+      "joinedAt": "2026-09-01T03:20:23.849Z",
+      "leftAt": null
     }
   },
   "warnings": [],
@@ -63,15 +63,24 @@
       "reason": "Pending captcha verification",
       "durationSeconds": null,
       "createdAt": "2026-09-01T03:18:27.235Z"
+    },
+    {
+      "id": "290c679a-5e41-4ca6-b39a-cd1d08bfbde1",
+      "targetUserId": 7973832054,
+      "moderatorId": 8653883334,
+      "actionType": "mute",
+      "reason": "Pending captcha verification",
+      "durationSeconds": null,
+      "createdAt": "2026-09-01T03:20:24.614Z"
     }
   ],
   "scheduledActions": [],
   "captchaSessions": {
     "7973832054": {
-      "challengeAnswer": "15",
-      "messageId": 62,
+      "challengeAnswer": "9",
+      "messageId": 65,
       "status": "pending",
-      "expiresAt": "2026-09-01T03:19:27.238Z"
+      "expiresAt": "2026-09-01T03:21:24.618Z"
     }
   },
   "requiredChannels": [],
@@ -94,6 +103,15 @@
       "reason": "Pending captcha verification",
       "details": {},
       "createdAt": "2026-09-01T03:18:27.236Z"
+    },
+    {
+      "id": "25c8bb52-633e-40c1-9920-949bb0c8d3d4",
+      "eventType": "mute",
+      "targetUserId": 7973832054,
+      "moderatorId": 8653883334,
+      "reason": "Pending captcha verification",
+      "details": {},
+      "createdAt": "2026-09-01T03:20:24.617Z"
     }
   ],
   "floodCounters": {},
