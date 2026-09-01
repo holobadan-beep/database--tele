@@ -6,7 +6,7 @@
     "isActive": true
   },
   "settings": {
-    "language": "en",
+    "language": "id",
     "welcomeEnabled": false,
     "welcomeMessage": null,
     "welcomeMediaType": null,
@@ -28,7 +28,8 @@
     "rulesText": null,
     "lockedContentTypes": [],
     "verificationEnabled": false,
-    "verificationExplicitOverride": null
+    "verificationExplicitOverride": null,
+    "languageConfirmed": true
   },
   "members": {},
   "warnings": [],
@@ -45,7 +46,7 @@
   "floodCounters": {},
   "rateLimits": {},
   "adminCache": {
-    "fetchedAt": 1788231629207,
+    "fetchedAt": 1788232373779,
     "administrators": [
       {
         "user": {
@@ -77,7 +78,8 @@
         "user": {
           "id": 6648071746,
           "is_bot": false,
-          "first_name": "King Gufron 🐋"
+          "first_name": "King Gufron 🐋",
+          "language_code": "id"
         },
         "status": "creator",
         "is_anonymous": false
