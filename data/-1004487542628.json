@@ -37,7 +37,7 @@
     "7973832054": {
       "role": "member",
       "joinedAt": "2026-09-01T03:20:23.849Z",
-      "leftAt": null
+      "leftAt": "2026-09-01T03:21:30.968Z"
     }
   },
   "warnings": [],
@@ -79,7 +79,7 @@
     "7973832054": {
       "challengeAnswer": "9",
       "messageId": 65,
-      "status": "pending",
+      "status": "expired",
       "expiresAt": "2026-09-01T03:21:24.618Z"
     }
   },
