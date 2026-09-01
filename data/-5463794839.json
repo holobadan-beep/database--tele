@@ -1,0 +1,51 @@
+{
+  "chatId": "-5463794839",
+  "chat": {
+    "title": "k",
+    "type": "group",
+    "isActive": true
+  },
+  "settings": {
+    "language": "en",
+    "welcomeEnabled": false,
+    "welcomeMessage": null,
+    "welcomeMediaType": null,
+    "welcomeMediaFileId": null,
+    "goodbyeEnabled": false,
+    "goodbyeMessage": null,
+    "antiSpamEnabled": false,
+    "antiSpamAction": "delete",
+    "antiFloodEnabled": false,
+    "floodMessageLimit": 5,
+    "floodWindowSeconds": 10,
+    "floodAction": "mute",
+    "captchaEnabled": false,
+    "captchaTimeoutSeconds": 60,
+    "warnLimit": 3,
+    "warnAction": "mute",
+    "warnResetOnAction": true,
+    "logChatId": null,
+    "rulesText": null,
+    "lockedContentTypes": [],
+    "verificationEnabled": false,
+    "verificationExplicitOverride": null
+  },
+  "members": {},
+  "warnings": [],
+  "filters": [],
+  "notes": [],
+  "customCommands": [],
+  "disabledCommands": [],
+  "moderationActions": [],
+  "scheduledActions": [],
+  "captchaSessions": {},
+  "requiredChannels": [],
+  "verificationSessions": {},
+  "logs": [],
+  "floodCounters": {},
+  "rateLimits": {},
+  "adminCache": {
+    "fetchedAt": 0,
+    "administrators": []
+  }
+}
