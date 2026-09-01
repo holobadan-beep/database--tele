@@ -36,8 +36,8 @@
   "members": {
     "7973832054": {
       "role": "member",
-      "joinedAt": "2026-09-01T03:20:23.849Z",
-      "leftAt": "2026-09-01T03:21:30.968Z"
+      "joinedAt": "2026-09-01T03:30:07.252Z",
+      "leftAt": null
     }
   },
   "warnings": [],
@@ -72,15 +72,24 @@
       "reason": "Pending captcha verification",
       "durationSeconds": null,
       "createdAt": "2026-09-01T03:20:24.614Z"
+    },
+    {
+      "id": "b617a4f5-4fe3-4222-b816-422d3a60d818",
+      "targetUserId": 7973832054,
+      "moderatorId": 8653883334,
+      "actionType": "mute",
+      "reason": "Pending captcha verification",
+      "durationSeconds": null,
+      "createdAt": "2026-09-01T03:30:08.162Z"
     }
   ],
   "scheduledActions": [],
   "captchaSessions": {
     "7973832054": {
-      "challengeAnswer": "9",
-      "messageId": 65,
-      "status": "expired",
-      "expiresAt": "2026-09-01T03:21:24.618Z"
+      "challengeAnswer": "14",
+      "messageId": 73,
+      "status": "pending",
+      "expiresAt": "2026-09-01T03:31:08.172Z"
     }
   },
   "requiredChannels": [],
@@ -112,6 +121,15 @@
       "reason": "Pending captcha verification",
       "details": {},
       "createdAt": "2026-09-01T03:20:24.617Z"
+    },
+    {
+      "id": "dea47a19-b6d8-44b2-a62d-780b1720c887",
+      "eventType": "mute",
+      "targetUserId": 7973832054,
+      "moderatorId": 8653883334,
+      "reason": "Pending captcha verification",
+      "details": {},
+      "createdAt": "2026-09-01T03:30:08.167Z"
     }
   ],
   "floodCounters": {},
